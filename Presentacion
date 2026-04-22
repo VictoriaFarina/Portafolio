@@ -1,0 +1,52 @@
+# Victoria Farina – Data & Analytics Portfolio
+
+📍 Buenos Aires, Argentina  
+🌎 Español (nativo) · Inglés (C1) · Francés (C1)  
+📊 En transición hacia análisis de datos · Excel · Google Sheets · Python (básico) · SQL (básico)
+
+---
+
+## Sobre mí
+
+Soy estudiante avanzada de Relaciones Internacionales con experiencia en **organización de datos, seguimiento de proyectos y análisis de métricas**. He trabajado con volúmenes medianos de datos administrativos y de marketing, usando Excel y Google Sheets para limpiar, organizar y extraer insights. Actualmente estoy aprendiendo Python y SQL para profundizar en análisis de datos.
+
+---
+
+## Proyectos destacados
+
+### 📊 1. Análisis de engagement en redes sociales (D&S)
+- **Objetivo:** Identificar qué tipo de contenido generaba más interacción.
+- **Herramientas:** Google Sheets (tablas dinámicas, formato condicional, gráficos).
+- **Resultado:** Se aumentó la frecuencia de videos y se ajustó el horario de publicación, logrando +25% de engagement en 2 meses.
+- 📁 [Ver proyecto](./proyectos/analisis_engagement_d&s)
+
+### 📋 2. Sistema de seguimiento de expedientes (OEI)
+- **Objetivo:** Controlar plazos, documentación faltante y estado de cada caso.
+- **Herramientas:** Excel (BUSCARV, SI, formato condicional, validación de datos).
+- **Resultado:** Reducción de demoras en un 40% y adopción del formato por otras áreas.
+- 📁 [Ver plantilla](./proyectos/seguimiento_expedientes_oei)
+
+### 📈 3. Dashboards básicos en Excel / Google Sheets
+- Ejemplos de paneles simples para monitoreo de tareas, indicadores y tendencias.
+- Incluye tablas dinámicas, segmentación de datos y gráficos dinámicos.
+- 📁 [Ver dashboards](./proyectos/dashboards)
+
+---
+
+## Herramientas y habilidades
+
+| Herramienta | Nivel |
+|-------------|-------|
+| Excel / Google Sheets | Intermedio – avanzado (tablas dinámicas, BUSCARV, SI, formato condicional, validación) |
+| SQL | Básico (consultas SELECT, JOIN, GROUP BY) |
+| Python | Básico (pandas, matplotlib – en aprendizaje) |
+| Power BI | Explorando |
+| Google Looker Studio | Básico |
+
+---
+
+## Contacto
+
+📧 victoriafarinaaa@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/victoriafarina)  
+💻 [GitHub](https://github.com/victoriafarina)
